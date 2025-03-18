@@ -90,7 +90,7 @@
     "Numeric": "31"
   },
   {
-    "EnglishName": "Bahamas (the)",
+    "EnglishName": "Bahamas",
     "Alpha2Code": "BS",
     "Alpha3Code": "BHS",
     "Numeric": "44"
@@ -186,7 +186,7 @@
     "Numeric": "76"
   },
   {
-    "EnglishName": "British Indian Ocean Territory (the)",
+    "EnglishName": "British Indian Ocean Territory",
     "Alpha2Code": "IO",
     "Alpha3Code": "IOT",
     "Numeric": "86"
@@ -240,13 +240,13 @@
     "Numeric": "124"
   },
   {
-    "EnglishName": "Cayman Islands (the)",
+    "EnglishName": "Cayman Islands",
     "Alpha2Code": "KY",
     "Alpha3Code": "CYM",
     "Numeric": "136"
   },
   {
-    "EnglishName": "Central African Republic (the)",
+    "EnglishName": "Central African Republic",
     "Alpha2Code": "CF",
     "Alpha3Code": "CAF",
     "Numeric": "140"
@@ -276,7 +276,7 @@
     "Numeric": "162"
   },
   {
-    "EnglishName": "Cocos (Keeling) Islands (the)",
+    "EnglishName": "Cocos (Keeling) Islands",
     "Alpha2Code": "CC",
     "Alpha3Code": "CCK",
     "Numeric": "166"
@@ -288,25 +288,25 @@
     "Numeric": "170"
   },
   {
-    "EnglishName": "Comoros (the)",
+    "EnglishName": "Comoros",
     "Alpha2Code": "KM",
     "Alpha3Code": "COM",
     "Numeric": "174"
   },
   {
-    "EnglishName": "Congo (the Democratic Republic of the)",
+    "EnglishName": "The Democratic Republic of the Congo",
     "Alpha2Code": "CD",
     "Alpha3Code": "COD",
     "Numeric": "180"
   },
   {
-    "EnglishName": "Congo (the)",
+    "EnglishName": "Congo",
     "Alpha2Code": "CG",
     "Alpha3Code": "COG",
     "Numeric": "178"
   },
   {
-    "EnglishName": "Cook Islands (the)",
+    "EnglishName": "Cook Islands",
     "Alpha2Code": "CK",
     "Alpha3Code": "COK",
     "Numeric": "184"
@@ -330,7 +330,7 @@
     "Numeric": "192"
   },
   {
-    "EnglishName": "Cura ao",
+    "EnglishName": "Curacao",
     "Alpha2Code": "CW",
     "Alpha3Code": "CUW",
     "Numeric": "531"
@@ -348,7 +348,7 @@
     "Numeric": "203"
   },
   {
-    "EnglishName": "C te d'Ivoire",
+    "EnglishName": "Cote d'Ivoire",
     "Alpha2Code": "CI",
     "Alpha3Code": "CIV",
     "Numeric": "384"
@@ -372,7 +372,7 @@
     "Numeric": "212"
   },
   {
-    "EnglishName": "Dominican Republic (the)",
+    "EnglishName": "Dominican Republic",
     "Alpha2Code": "DO",
     "Alpha3Code": "DOM",
     "Numeric": "214"
@@ -426,13 +426,13 @@
     "Numeric": "231"
   },
   {
-    "EnglishName": "Falkland Islands (the) [Malvinas]",
+    "EnglishName": "Falkland Islands",
     "Alpha2Code": "FK",
     "Alpha3Code": "FLK",
     "Numeric": "238"
   },
   {
-    "EnglishName": "Faroe Islands (the)",
+    "EnglishName": "Faroe Islands",
     "Alpha2Code": "FO",
     "Alpha3Code": "FRO",
     "Numeric": "234"
@@ -468,7 +468,7 @@
     "Numeric": "258"
   },
   {
-    "EnglishName": "French Southern Territories (the)",
+    "EnglishName": "French Southern Territories",
     "Alpha2Code": "TF",
     "Alpha3Code": "ATF",
     "Numeric": "260"
@@ -480,7 +480,7 @@
     "Numeric": "266"
   },
   {
-    "EnglishName": "Gambia (the)",
+    "EnglishName": "Gambia",
     "Alpha2Code": "GM",
     "Alpha3Code": "GMB",
     "Numeric": "270"
@@ -582,7 +582,7 @@
     "Numeric": "334"
   },
   {
-    "EnglishName": "Holy See (the)",
+    "EnglishName": "Holy See",
     "Alpha2Code": "VA",
     "Alpha3Code": "VAT",
     "Numeric": "336"
@@ -624,7 +624,7 @@
     "Numeric": "360"
   },
   {
-    "EnglishName": "Iran (Islamic Republic of)",
+    "EnglishName": "Iran",
     "Alpha2Code": "IR",
     "Alpha3Code": "IRN",
     "Numeric": "364"
@@ -726,7 +726,7 @@
     "Numeric": "417"
   },
   {
-    "EnglishName": "Lao People's Democratic Republic (the)",
+    "EnglishName": "Lao People's Democratic Republic",
     "Alpha2Code": "LA",
     "Alpha3Code": "LAO",
     "Numeric": "418"
@@ -822,7 +822,7 @@
     "Numeric": "470"
   },
   {
-    "EnglishName": "Marshall Islands (the)",
+    "EnglishName": "Marshall Islands",
     "Alpha2Code": "MH",
     "Alpha3Code": "MHL",
     "Numeric": "584"
@@ -858,13 +858,13 @@
     "Numeric": "484"
   },
   {
-    "EnglishName": "Micronesia (Federated States of)",
+    "EnglishName": "Micronesia",
     "Alpha2Code": "FM",
     "Alpha3Code": "FSM",
     "Numeric": "583"
   },
   {
-    "EnglishName": "Moldova (the Republic of)",
+    "EnglishName": "Moldova",
     "Alpha2Code": "MD",
     "Alpha3Code": "MDA",
     "Numeric": "498"
@@ -930,7 +930,7 @@
     "Numeric": "524"
   },
   {
-    "EnglishName": "Netherlands (Kingdom of the)",
+    "EnglishName": "Netherlands",
     "Alpha2Code": "NL",
     "Alpha3Code": "NLD",
     "Numeric": "528"
@@ -954,7 +954,7 @@
     "Numeric": "558"
   },
   {
-    "EnglishName": "Niger (the)",
+    "EnglishName": "Niger",
     "Alpha2Code": "NE",
     "Alpha3Code": "NER",
     "Numeric": "562"
@@ -984,7 +984,7 @@
     "Numeric": "807"
   },
   {
-    "EnglishName": "Northern Mariana Islands (the)",
+    "EnglishName": "Northern Mariana Islands",
     "Alpha2Code": "MP",
     "Alpha3Code": "MNP",
     "Numeric": "580"
@@ -1014,7 +1014,7 @@
     "Numeric": "585"
   },
   {
-    "EnglishName": "Palestine, State of",
+    "EnglishName": "Palestine",
     "Alpha2Code": "PS",
     "Alpha3Code": "PSE",
     "Numeric": "275"
@@ -1044,7 +1044,7 @@
     "Numeric": "604"
   },
   {
-    "EnglishName": "Philippines (the)",
+    "EnglishName": "Philippines",
     "Alpha2Code": "PH",
     "Alpha3Code": "PHL",
     "Numeric": "608"
@@ -1086,7 +1086,7 @@
     "Numeric": "642"
   },
   {
-    "EnglishName": "Russian Federation (the)",
+    "EnglishName": "Russian Federation",
     "Alpha2Code": "RU",
     "Alpha3Code": "RUS",
     "Numeric": "643"
@@ -1200,7 +1200,7 @@
     "Numeric": "702"
   },
   {
-    "EnglishName": "Sint Maarten (Dutch part)",
+    "EnglishName": "Sint Maarten",
     "Alpha2Code": "SX",
     "Alpha3Code": "SXM",
     "Numeric": "534"
@@ -1260,7 +1260,7 @@
     "Numeric": "144"
   },
   {
-    "EnglishName": "Sudan (the)",
+    "EnglishName": "Sudan",
     "Alpha2Code": "SD",
     "Alpha3Code": "SDN",
     "Numeric": "729"
@@ -1290,13 +1290,13 @@
     "Numeric": "756"
   },
   {
-    "EnglishName": "Syrian Arab Republic (the)",
+    "EnglishName": "Syrian Arab Republic",
     "Alpha2Code": "SY",
     "Alpha3Code": "SYR",
     "Numeric": "760"
   },
   {
-    "EnglishName": "Taiwan (Province of China)",
+    "EnglishName": "Taiwan",
     "Alpha2Code": "TW",
     "Alpha3Code": "TWN",
     "Numeric": "158"
@@ -1308,7 +1308,7 @@
     "Numeric": "762"
   },
   {
-    "EnglishName": "Tanzania, the United Republic of",
+    "EnglishName": "Tanzania",
     "Alpha2Code": "TZ",
     "Alpha3Code": "TZA",
     "Numeric": "834"
@@ -1362,7 +1362,7 @@
     "Numeric": "795"
   },
   {
-    "EnglishName": "Turks and Caicos Islands (the)",
+    "EnglishName": "Turks and Caicos Islands",
     "Alpha2Code": "TC",
     "Alpha3Code": "TCA",
     "Numeric": "796"
@@ -1392,25 +1392,25 @@
     "Numeric": "804"
   },
   {
-    "EnglishName": "United Arab Emirates (the)",
+    "EnglishName": "United Arab Emirates",
     "Alpha2Code": "AE",
     "Alpha3Code": "ARE",
     "Numeric": "784"
   },
   {
-    "EnglishName": "United Kingdom of Great Britain and Northern Ireland (the)",
+    "EnglishName": "United Kingdom",
     "Alpha2Code": "GB",
     "Alpha3Code": "GBR",
     "Numeric": "826"
   },
   {
-    "EnglishName": "United States Minor Outlying Islands (the)",
+    "EnglishName": "United States Minor Outlying Islands",
     "Alpha2Code": "UM",
     "Alpha3Code": "UMI",
     "Numeric": "581"
   },
   {
-    "EnglishName": "United States of America (the)",
+    "EnglishName": "United States",
     "Alpha2Code": "US",
     "Alpha3Code": "USA",
     "Numeric": "840"
@@ -1434,7 +1434,7 @@
     "Numeric": "548"
   },
   {
-    "EnglishName": "Venezuela (Bolivarian Republic of)",
+    "EnglishName": "Venezuela",
     "Alpha2Code": "VE",
     "Alpha3Code": "VEN",
     "Numeric": "862"
@@ -1488,7 +1488,7 @@
     "Numeric": "716"
   },
   {
-    "EnglishName": "land Islands",
+    "EnglishName": "Aland Islands",
     "Alpha2Code": "AX",
     "Alpha3Code": "ALA",
     "Numeric": "248"
