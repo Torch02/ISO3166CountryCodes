@@ -1,1496 +1,1496 @@
 [
   {
     "EnglishName": "Afghanistan",
-    "Alpha-2-Code": "AF",
-    "Alpha-3-Code": "AFG",
+    "Alpha2Code": "AF",
+    "Alpha3Code": "AFG",
     "Numeric": "4"
   },
   {
     "EnglishName": "Albania",
-    "Alpha-2-Code": "AL",
-    "Alpha-3-Code": "ALB",
+    "Alpha2Code": "AL",
+    "Alpha3Code": "ALB",
     "Numeric": "8"
   },
   {
     "EnglishName": "Algeria",
-    "Alpha-2-Code": "DZ",
-    "Alpha-3-Code": "DZA",
+    "Alpha2Code": "DZ",
+    "Alpha3Code": "DZA",
     "Numeric": "12"
   },
   {
     "EnglishName": "American Samoa",
-    "Alpha-2-Code": "AS",
-    "Alpha-3-Code": "ASM",
+    "Alpha2Code": "AS",
+    "Alpha3Code": "ASM",
     "Numeric": "16"
   },
   {
     "EnglishName": "Andorra",
-    "Alpha-2-Code": "AD",
-    "Alpha-3-Code": "AND",
+    "Alpha2Code": "AD",
+    "Alpha3Code": "AND",
     "Numeric": "20"
   },
   {
     "EnglishName": "Angola",
-    "Alpha-2-Code": "AO",
-    "Alpha-3-Code": "AGO",
+    "Alpha2Code": "AO",
+    "Alpha3Code": "AGO",
     "Numeric": "24"
   },
   {
     "EnglishName": "Anguilla",
-    "Alpha-2-Code": "AI",
-    "Alpha-3-Code": "AIA",
+    "Alpha2Code": "AI",
+    "Alpha3Code": "AIA",
     "Numeric": "660"
   },
   {
     "EnglishName": "Antarctica",
-    "Alpha-2-Code": "AQ",
-    "Alpha-3-Code": "ATA",
+    "Alpha2Code": "AQ",
+    "Alpha3Code": "ATA",
     "Numeric": "10"
   },
   {
     "EnglishName": "Antigua and Barbuda",
-    "Alpha-2-Code": "AG",
-    "Alpha-3-Code": "ATG",
+    "Alpha2Code": "AG",
+    "Alpha3Code": "ATG",
     "Numeric": "28"
   },
   {
     "EnglishName": "Argentina",
-    "Alpha-2-Code": "AR",
-    "Alpha-3-Code": "ARG",
+    "Alpha2Code": "AR",
+    "Alpha3Code": "ARG",
     "Numeric": "32"
   },
   {
     "EnglishName": "Armenia",
-    "Alpha-2-Code": "AM",
-    "Alpha-3-Code": "ARM",
+    "Alpha2Code": "AM",
+    "Alpha3Code": "ARM",
     "Numeric": "51"
   },
   {
     "EnglishName": "Aruba",
-    "Alpha-2-Code": "AW",
-    "Alpha-3-Code": "ABW",
+    "Alpha2Code": "AW",
+    "Alpha3Code": "ABW",
     "Numeric": "533"
   },
   {
     "EnglishName": "Australia",
-    "Alpha-2-Code": "AU",
-    "Alpha-3-Code": "AUS",
+    "Alpha2Code": "AU",
+    "Alpha3Code": "AUS",
     "Numeric": "36"
   },
   {
     "EnglishName": "Austria",
-    "Alpha-2-Code": "AT",
-    "Alpha-3-Code": "AUT",
+    "Alpha2Code": "AT",
+    "Alpha3Code": "AUT",
     "Numeric": "40"
   },
   {
     "EnglishName": "Azerbaijan",
-    "Alpha-2-Code": "AZ",
-    "Alpha-3-Code": "AZE",
+    "Alpha2Code": "AZ",
+    "Alpha3Code": "AZE",
     "Numeric": "31"
   },
   {
     "EnglishName": "Bahamas (the)",
-    "Alpha-2-Code": "BS",
-    "Alpha-3-Code": "BHS",
+    "Alpha2Code": "BS",
+    "Alpha3Code": "BHS",
     "Numeric": "44"
   },
   {
     "EnglishName": "Bahrain",
-    "Alpha-2-Code": "BH",
-    "Alpha-3-Code": "BHR",
+    "Alpha2Code": "BH",
+    "Alpha3Code": "BHR",
     "Numeric": "48"
   },
   {
     "EnglishName": "Bangladesh",
-    "Alpha-2-Code": "BD",
-    "Alpha-3-Code": "BGD",
+    "Alpha2Code": "BD",
+    "Alpha3Code": "BGD",
     "Numeric": "50"
   },
   {
     "EnglishName": "Barbados",
-    "Alpha-2-Code": "BB",
-    "Alpha-3-Code": "BRB",
+    "Alpha2Code": "BB",
+    "Alpha3Code": "BRB",
     "Numeric": "52"
   },
   {
     "EnglishName": "Belarus",
-    "Alpha-2-Code": "BY",
-    "Alpha-3-Code": "BLR",
+    "Alpha2Code": "BY",
+    "Alpha3Code": "BLR",
     "Numeric": "112"
   },
   {
     "EnglishName": "Belgium",
-    "Alpha-2-Code": "BE",
-    "Alpha-3-Code": "BEL",
+    "Alpha2Code": "BE",
+    "Alpha3Code": "BEL",
     "Numeric": "56"
   },
   {
     "EnglishName": "Belize",
-    "Alpha-2-Code": "BZ",
-    "Alpha-3-Code": "BLZ",
+    "Alpha2Code": "BZ",
+    "Alpha3Code": "BLZ",
     "Numeric": "84"
   },
   {
     "EnglishName": "Benin",
-    "Alpha-2-Code": "BJ",
-    "Alpha-3-Code": "BEN",
+    "Alpha2Code": "BJ",
+    "Alpha3Code": "BEN",
     "Numeric": "204"
   },
   {
     "EnglishName": "Bermuda",
-    "Alpha-2-Code": "BM",
-    "Alpha-3-Code": "BMU",
+    "Alpha2Code": "BM",
+    "Alpha3Code": "BMU",
     "Numeric": "60"
   },
   {
     "EnglishName": "Bhutan",
-    "Alpha-2-Code": "BT",
-    "Alpha-3-Code": "BTN",
+    "Alpha2Code": "BT",
+    "Alpha3Code": "BTN",
     "Numeric": "64"
   },
   {
     "EnglishName": "Bolivia (Plurinational State of)",
-    "Alpha-2-Code": "BO",
-    "Alpha-3-Code": "BOL",
+    "Alpha2Code": "BO",
+    "Alpha3Code": "BOL",
     "Numeric": "68"
   },
   {
     "EnglishName": "Bonaire, Sint Eustatius and Saba",
-    "Alpha-2-Code": "BQ",
-    "Alpha-3-Code": "BES",
+    "Alpha2Code": "BQ",
+    "Alpha3Code": "BES",
     "Numeric": "535"
   },
   {
     "EnglishName": "Bosnia and Herzegovina",
-    "Alpha-2-Code": "BA",
-    "Alpha-3-Code": "BIH",
+    "Alpha2Code": "BA",
+    "Alpha3Code": "BIH",
     "Numeric": "70"
   },
   {
     "EnglishName": "Botswana",
-    "Alpha-2-Code": "BW",
-    "Alpha-3-Code": "BWA",
+    "Alpha2Code": "BW",
+    "Alpha3Code": "BWA",
     "Numeric": "72"
   },
   {
     "EnglishName": "Bouvet Island",
-    "Alpha-2-Code": "BV",
-    "Alpha-3-Code": "BVT",
+    "Alpha2Code": "BV",
+    "Alpha3Code": "BVT",
     "Numeric": "74"
   },
   {
     "EnglishName": "Brazil",
-    "Alpha-2-Code": "BR",
-    "Alpha-3-Code": "BRA",
+    "Alpha2Code": "BR",
+    "Alpha3Code": "BRA",
     "Numeric": "76"
   },
   {
     "EnglishName": "British Indian Ocean Territory (the)",
-    "Alpha-2-Code": "IO",
-    "Alpha-3-Code": "IOT",
+    "Alpha2Code": "IO",
+    "Alpha3Code": "IOT",
     "Numeric": "86"
   },
   {
     "EnglishName": "Brunei Darussalam",
-    "Alpha-2-Code": "BN",
-    "Alpha-3-Code": "BRN",
+    "Alpha2Code": "BN",
+    "Alpha3Code": "BRN",
     "Numeric": "96"
   },
   {
     "EnglishName": "Bulgaria",
-    "Alpha-2-Code": "BG",
-    "Alpha-3-Code": "BGR",
+    "Alpha2Code": "BG",
+    "Alpha3Code": "BGR",
     "Numeric": "100"
   },
   {
     "EnglishName": "Burkina Faso",
-    "Alpha-2-Code": "BF",
-    "Alpha-3-Code": "BFA",
+    "Alpha2Code": "BF",
+    "Alpha3Code": "BFA",
     "Numeric": "854"
   },
   {
     "EnglishName": "Burundi",
-    "Alpha-2-Code": "BI",
-    "Alpha-3-Code": "BDI",
+    "Alpha2Code": "BI",
+    "Alpha3Code": "BDI",
     "Numeric": "108"
   },
   {
     "EnglishName": "Cabo Verde",
-    "Alpha-2-Code": "CV",
-    "Alpha-3-Code": "CPV",
+    "Alpha2Code": "CV",
+    "Alpha3Code": "CPV",
     "Numeric": "132"
   },
   {
     "EnglishName": "Cambodia",
-    "Alpha-2-Code": "KH",
-    "Alpha-3-Code": "KHM",
+    "Alpha2Code": "KH",
+    "Alpha3Code": "KHM",
     "Numeric": "116"
   },
   {
     "EnglishName": "Cameroon",
-    "Alpha-2-Code": "CM",
-    "Alpha-3-Code": "CMR",
+    "Alpha2Code": "CM",
+    "Alpha3Code": "CMR",
     "Numeric": "120"
   },
   {
     "EnglishName": "Canada",
-    "Alpha-2-Code": "CA",
-    "Alpha-3-Code": "CAN",
+    "Alpha2Code": "CA",
+    "Alpha3Code": "CAN",
     "Numeric": "124"
   },
   {
     "EnglishName": "Cayman Islands (the)",
-    "Alpha-2-Code": "KY",
-    "Alpha-3-Code": "CYM",
+    "Alpha2Code": "KY",
+    "Alpha3Code": "CYM",
     "Numeric": "136"
   },
   {
     "EnglishName": "Central African Republic (the)",
-    "Alpha-2-Code": "CF",
-    "Alpha-3-Code": "CAF",
+    "Alpha2Code": "CF",
+    "Alpha3Code": "CAF",
     "Numeric": "140"
   },
   {
     "EnglishName": "Chad",
-    "Alpha-2-Code": "TD",
-    "Alpha-3-Code": "TCD",
+    "Alpha2Code": "TD",
+    "Alpha3Code": "TCD",
     "Numeric": "148"
   },
   {
     "EnglishName": "Chile",
-    "Alpha-2-Code": "CL",
-    "Alpha-3-Code": "CHL",
+    "Alpha2Code": "CL",
+    "Alpha3Code": "CHL",
     "Numeric": "152"
   },
   {
     "EnglishName": "China",
-    "Alpha-2-Code": "CN",
-    "Alpha-3-Code": "CHN",
+    "Alpha2Code": "CN",
+    "Alpha3Code": "CHN",
     "Numeric": "156"
   },
   {
     "EnglishName": "Christmas Island",
-    "Alpha-2-Code": "CX",
-    "Alpha-3-Code": "CXR",
+    "Alpha2Code": "CX",
+    "Alpha3Code": "CXR",
     "Numeric": "162"
   },
   {
     "EnglishName": "Cocos (Keeling) Islands (the)",
-    "Alpha-2-Code": "CC",
-    "Alpha-3-Code": "CCK",
+    "Alpha2Code": "CC",
+    "Alpha3Code": "CCK",
     "Numeric": "166"
   },
   {
     "EnglishName": "Colombia",
-    "Alpha-2-Code": "CO",
-    "Alpha-3-Code": "COL",
+    "Alpha2Code": "CO",
+    "Alpha3Code": "COL",
     "Numeric": "170"
   },
   {
     "EnglishName": "Comoros (the)",
-    "Alpha-2-Code": "KM",
-    "Alpha-3-Code": "COM",
+    "Alpha2Code": "KM",
+    "Alpha3Code": "COM",
     "Numeric": "174"
   },
   {
     "EnglishName": "Congo (the Democratic Republic of the)",
-    "Alpha-2-Code": "CD",
-    "Alpha-3-Code": "COD",
+    "Alpha2Code": "CD",
+    "Alpha3Code": "COD",
     "Numeric": "180"
   },
   {
     "EnglishName": "Congo (the)",
-    "Alpha-2-Code": "CG",
-    "Alpha-3-Code": "COG",
+    "Alpha2Code": "CG",
+    "Alpha3Code": "COG",
     "Numeric": "178"
   },
   {
     "EnglishName": "Cook Islands (the)",
-    "Alpha-2-Code": "CK",
-    "Alpha-3-Code": "COK",
+    "Alpha2Code": "CK",
+    "Alpha3Code": "COK",
     "Numeric": "184"
   },
   {
     "EnglishName": "Costa Rica",
-    "Alpha-2-Code": "CR",
-    "Alpha-3-Code": "CRI",
+    "Alpha2Code": "CR",
+    "Alpha3Code": "CRI",
     "Numeric": "188"
   },
   {
     "EnglishName": "Croatia",
-    "Alpha-2-Code": "HR",
-    "Alpha-3-Code": "HRV",
+    "Alpha2Code": "HR",
+    "Alpha3Code": "HRV",
     "Numeric": "191"
   },
   {
     "EnglishName": "Cuba",
-    "Alpha-2-Code": "CU",
-    "Alpha-3-Code": "CUB",
+    "Alpha2Code": "CU",
+    "Alpha3Code": "CUB",
     "Numeric": "192"
   },
   {
-    "EnglishName": "Cura�ao",
-    "Alpha-2-Code": "CW",
-    "Alpha-3-Code": "CUW",
+    "EnglishName": "Cura ao",
+    "Alpha2Code": "CW",
+    "Alpha3Code": "CUW",
     "Numeric": "531"
   },
   {
     "EnglishName": "Cyprus",
-    "Alpha-2-Code": "CY",
-    "Alpha-3-Code": "CYP",
+    "Alpha2Code": "CY",
+    "Alpha3Code": "CYP",
     "Numeric": "196"
   },
   {
     "EnglishName": "Czechia",
-    "Alpha-2-Code": "CZ",
-    "Alpha-3-Code": "CZE",
+    "Alpha2Code": "CZ",
+    "Alpha3Code": "CZE",
     "Numeric": "203"
   },
   {
-    "EnglishName": "C�te d'Ivoire",
-    "Alpha-2-Code": "CI",
-    "Alpha-3-Code": "CIV",
+    "EnglishName": "C te d'Ivoire",
+    "Alpha2Code": "CI",
+    "Alpha3Code": "CIV",
     "Numeric": "384"
   },
   {
     "EnglishName": "Denmark",
-    "Alpha-2-Code": "DK",
-    "Alpha-3-Code": "DNK",
+    "Alpha2Code": "DK",
+    "Alpha3Code": "DNK",
     "Numeric": "208"
   },
   {
     "EnglishName": "Djibouti",
-    "Alpha-2-Code": "DJ",
-    "Alpha-3-Code": "DJI",
+    "Alpha2Code": "DJ",
+    "Alpha3Code": "DJI",
     "Numeric": "262"
   },
   {
     "EnglishName": "Dominica",
-    "Alpha-2-Code": "DM",
-    "Alpha-3-Code": "DMA",
+    "Alpha2Code": "DM",
+    "Alpha3Code": "DMA",
     "Numeric": "212"
   },
   {
     "EnglishName": "Dominican Republic (the)",
-    "Alpha-2-Code": "DO",
-    "Alpha-3-Code": "DOM",
+    "Alpha2Code": "DO",
+    "Alpha3Code": "DOM",
     "Numeric": "214"
   },
   {
     "EnglishName": "Ecuador",
-    "Alpha-2-Code": "EC",
-    "Alpha-3-Code": "ECU",
+    "Alpha2Code": "EC",
+    "Alpha3Code": "ECU",
     "Numeric": "218"
   },
   {
     "EnglishName": "Egypt",
-    "Alpha-2-Code": "EG",
-    "Alpha-3-Code": "EGY",
+    "Alpha2Code": "EG",
+    "Alpha3Code": "EGY",
     "Numeric": "818"
   },
   {
     "EnglishName": "El Salvador",
-    "Alpha-2-Code": "SV",
-    "Alpha-3-Code": "SLV",
+    "Alpha2Code": "SV",
+    "Alpha3Code": "SLV",
     "Numeric": "222"
   },
   {
     "EnglishName": "Equatorial Guinea",
-    "Alpha-2-Code": "GQ",
-    "Alpha-3-Code": "GNQ",
+    "Alpha2Code": "GQ",
+    "Alpha3Code": "GNQ",
     "Numeric": "226"
   },
   {
     "EnglishName": "Eritrea",
-    "Alpha-2-Code": "ER",
-    "Alpha-3-Code": "ERI",
+    "Alpha2Code": "ER",
+    "Alpha3Code": "ERI",
     "Numeric": "232"
   },
   {
     "EnglishName": "Estonia",
-    "Alpha-2-Code": "EE",
-    "Alpha-3-Code": "EST",
+    "Alpha2Code": "EE",
+    "Alpha3Code": "EST",
     "Numeric": "233"
   },
   {
     "EnglishName": "Eswatini",
-    "Alpha-2-Code": "SZ",
-    "Alpha-3-Code": "SWZ",
+    "Alpha2Code": "SZ",
+    "Alpha3Code": "SWZ",
     "Numeric": "748"
   },
   {
     "EnglishName": "Ethiopia",
-    "Alpha-2-Code": "ET",
-    "Alpha-3-Code": "ETH",
+    "Alpha2Code": "ET",
+    "Alpha3Code": "ETH",
     "Numeric": "231"
   },
   {
     "EnglishName": "Falkland Islands (the) [Malvinas]",
-    "Alpha-2-Code": "FK",
-    "Alpha-3-Code": "FLK",
+    "Alpha2Code": "FK",
+    "Alpha3Code": "FLK",
     "Numeric": "238"
   },
   {
     "EnglishName": "Faroe Islands (the)",
-    "Alpha-2-Code": "FO",
-    "Alpha-3-Code": "FRO",
+    "Alpha2Code": "FO",
+    "Alpha3Code": "FRO",
     "Numeric": "234"
   },
   {
     "EnglishName": "Fiji",
-    "Alpha-2-Code": "FJ",
-    "Alpha-3-Code": "FJI",
+    "Alpha2Code": "FJ",
+    "Alpha3Code": "FJI",
     "Numeric": "242"
   },
   {
     "EnglishName": "Finland",
-    "Alpha-2-Code": "FI",
-    "Alpha-3-Code": "FIN",
+    "Alpha2Code": "FI",
+    "Alpha3Code": "FIN",
     "Numeric": "246"
   },
   {
     "EnglishName": "France",
-    "Alpha-2-Code": "FR",
-    "Alpha-3-Code": "FRA",
+    "Alpha2Code": "FR",
+    "Alpha3Code": "FRA",
     "Numeric": "250"
   },
   {
     "EnglishName": "French Guiana",
-    "Alpha-2-Code": "GF",
-    "Alpha-3-Code": "GUF",
+    "Alpha2Code": "GF",
+    "Alpha3Code": "GUF",
     "Numeric": "254"
   },
   {
     "EnglishName": "French Polynesia",
-    "Alpha-2-Code": "PF",
-    "Alpha-3-Code": "PYF",
+    "Alpha2Code": "PF",
+    "Alpha3Code": "PYF",
     "Numeric": "258"
   },
   {
     "EnglishName": "French Southern Territories (the)",
-    "Alpha-2-Code": "TF",
-    "Alpha-3-Code": "ATF",
+    "Alpha2Code": "TF",
+    "Alpha3Code": "ATF",
     "Numeric": "260"
   },
   {
     "EnglishName": "Gabon",
-    "Alpha-2-Code": "GA",
-    "Alpha-3-Code": "GAB",
+    "Alpha2Code": "GA",
+    "Alpha3Code": "GAB",
     "Numeric": "266"
   },
   {
     "EnglishName": "Gambia (the)",
-    "Alpha-2-Code": "GM",
-    "Alpha-3-Code": "GMB",
+    "Alpha2Code": "GM",
+    "Alpha3Code": "GMB",
     "Numeric": "270"
   },
   {
     "EnglishName": "Georgia",
-    "Alpha-2-Code": "GE",
-    "Alpha-3-Code": "GEO",
+    "Alpha2Code": "GE",
+    "Alpha3Code": "GEO",
     "Numeric": "268"
   },
   {
     "EnglishName": "Germany",
-    "Alpha-2-Code": "DE",
-    "Alpha-3-Code": "DEU",
+    "Alpha2Code": "DE",
+    "Alpha3Code": "DEU",
     "Numeric": "276"
   },
   {
     "EnglishName": "Ghana",
-    "Alpha-2-Code": "GH",
-    "Alpha-3-Code": "GHA",
+    "Alpha2Code": "GH",
+    "Alpha3Code": "GHA",
     "Numeric": "288"
   },
   {
     "EnglishName": "Gibraltar",
-    "Alpha-2-Code": "GI",
-    "Alpha-3-Code": "GIB",
+    "Alpha2Code": "GI",
+    "Alpha3Code": "GIB",
     "Numeric": "292"
   },
   {
     "EnglishName": "Greece",
-    "Alpha-2-Code": "GR",
-    "Alpha-3-Code": "GRC",
+    "Alpha2Code": "GR",
+    "Alpha3Code": "GRC",
     "Numeric": "300"
   },
   {
     "EnglishName": "Greenland",
-    "Alpha-2-Code": "GL",
-    "Alpha-3-Code": "GRL",
+    "Alpha2Code": "GL",
+    "Alpha3Code": "GRL",
     "Numeric": "304"
   },
   {
     "EnglishName": "Grenada",
-    "Alpha-2-Code": "GD",
-    "Alpha-3-Code": "GRD",
+    "Alpha2Code": "GD",
+    "Alpha3Code": "GRD",
     "Numeric": "308"
   },
   {
     "EnglishName": "Guadeloupe",
-    "Alpha-2-Code": "GP",
-    "Alpha-3-Code": "GLP",
+    "Alpha2Code": "GP",
+    "Alpha3Code": "GLP",
     "Numeric": "312"
   },
   {
     "EnglishName": "Guam",
-    "Alpha-2-Code": "GU",
-    "Alpha-3-Code": "GUM",
+    "Alpha2Code": "GU",
+    "Alpha3Code": "GUM",
     "Numeric": "316"
   },
   {
     "EnglishName": "Guatemala",
-    "Alpha-2-Code": "GT",
-    "Alpha-3-Code": "GTM",
+    "Alpha2Code": "GT",
+    "Alpha3Code": "GTM",
     "Numeric": "320"
   },
   {
     "EnglishName": "Guernsey",
-    "Alpha-2-Code": "GG",
-    "Alpha-3-Code": "GGY",
+    "Alpha2Code": "GG",
+    "Alpha3Code": "GGY",
     "Numeric": "831"
   },
   {
     "EnglishName": "Guinea",
-    "Alpha-2-Code": "GN",
-    "Alpha-3-Code": "GIN",
+    "Alpha2Code": "GN",
+    "Alpha3Code": "GIN",
     "Numeric": "324"
   },
   {
     "EnglishName": "Guinea-Bissau",
-    "Alpha-2-Code": "GW",
-    "Alpha-3-Code": "GNB",
+    "Alpha2Code": "GW",
+    "Alpha3Code": "GNB",
     "Numeric": "624"
   },
   {
     "EnglishName": "Guyana",
-    "Alpha-2-Code": "GY",
-    "Alpha-3-Code": "GUY",
+    "Alpha2Code": "GY",
+    "Alpha3Code": "GUY",
     "Numeric": "328"
   },
   {
     "EnglishName": "Haiti",
-    "Alpha-2-Code": "HT",
-    "Alpha-3-Code": "HTI",
+    "Alpha2Code": "HT",
+    "Alpha3Code": "HTI",
     "Numeric": "332"
   },
   {
     "EnglishName": "Heard Island and McDonald Islands",
-    "Alpha-2-Code": "HM",
-    "Alpha-3-Code": "HMD",
+    "Alpha2Code": "HM",
+    "Alpha3Code": "HMD",
     "Numeric": "334"
   },
   {
     "EnglishName": "Holy See (the)",
-    "Alpha-2-Code": "VA",
-    "Alpha-3-Code": "VAT",
+    "Alpha2Code": "VA",
+    "Alpha3Code": "VAT",
     "Numeric": "336"
   },
   {
     "EnglishName": "Honduras",
-    "Alpha-2-Code": "HN",
-    "Alpha-3-Code": "HND",
+    "Alpha2Code": "HN",
+    "Alpha3Code": "HND",
     "Numeric": "340"
   },
   {
     "EnglishName": "Hong Kong",
-    "Alpha-2-Code": "HK",
-    "Alpha-3-Code": "HKG",
+    "Alpha2Code": "HK",
+    "Alpha3Code": "HKG",
     "Numeric": "344"
   },
   {
     "EnglishName": "Hungary",
-    "Alpha-2-Code": "HU",
-    "Alpha-3-Code": "HUN",
+    "Alpha2Code": "HU",
+    "Alpha3Code": "HUN",
     "Numeric": "348"
   },
   {
     "EnglishName": "Iceland",
-    "Alpha-2-Code": "IS",
-    "Alpha-3-Code": "ISL",
+    "Alpha2Code": "IS",
+    "Alpha3Code": "ISL",
     "Numeric": "352"
   },
   {
     "EnglishName": "India",
-    "Alpha-2-Code": "IN",
-    "Alpha-3-Code": "IND",
+    "Alpha2Code": "IN",
+    "Alpha3Code": "IND",
     "Numeric": "356"
   },
   {
     "EnglishName": "Indonesia",
-    "Alpha-2-Code": "ID",
-    "Alpha-3-Code": "IDN",
+    "Alpha2Code": "ID",
+    "Alpha3Code": "IDN",
     "Numeric": "360"
   },
   {
     "EnglishName": "Iran (Islamic Republic of)",
-    "Alpha-2-Code": "IR",
-    "Alpha-3-Code": "IRN",
+    "Alpha2Code": "IR",
+    "Alpha3Code": "IRN",
     "Numeric": "364"
   },
   {
     "EnglishName": "Iraq",
-    "Alpha-2-Code": "IQ",
-    "Alpha-3-Code": "IRQ",
+    "Alpha2Code": "IQ",
+    "Alpha3Code": "IRQ",
     "Numeric": "368"
   },
   {
     "EnglishName": "Ireland",
-    "Alpha-2-Code": "IE",
-    "Alpha-3-Code": "IRL",
+    "Alpha2Code": "IE",
+    "Alpha3Code": "IRL",
     "Numeric": "372"
   },
   {
     "EnglishName": "Isle of Man",
-    "Alpha-2-Code": "IM",
-    "Alpha-3-Code": "IMN",
+    "Alpha2Code": "IM",
+    "Alpha3Code": "IMN",
     "Numeric": "833"
   },
   {
     "EnglishName": "Israel",
-    "Alpha-2-Code": "IL",
-    "Alpha-3-Code": "ISR",
+    "Alpha2Code": "IL",
+    "Alpha3Code": "ISR",
     "Numeric": "376"
   },
   {
     "EnglishName": "Italy",
-    "Alpha-2-Code": "IT",
-    "Alpha-3-Code": "ITA",
+    "Alpha2Code": "IT",
+    "Alpha3Code": "ITA",
     "Numeric": "380"
   },
   {
     "EnglishName": "Jamaica",
-    "Alpha-2-Code": "JM",
-    "Alpha-3-Code": "JAM",
+    "Alpha2Code": "JM",
+    "Alpha3Code": "JAM",
     "Numeric": "388"
   },
   {
     "EnglishName": "Japan",
-    "Alpha-2-Code": "JP",
-    "Alpha-3-Code": "JPN",
+    "Alpha2Code": "JP",
+    "Alpha3Code": "JPN",
     "Numeric": "392"
   },
   {
     "EnglishName": "Jersey",
-    "Alpha-2-Code": "JE",
-    "Alpha-3-Code": "JEY",
+    "Alpha2Code": "JE",
+    "Alpha3Code": "JEY",
     "Numeric": "832"
   },
   {
     "EnglishName": "Jordan",
-    "Alpha-2-Code": "JO",
-    "Alpha-3-Code": "JOR",
+    "Alpha2Code": "JO",
+    "Alpha3Code": "JOR",
     "Numeric": "400"
   },
   {
     "EnglishName": "Kazakhstan",
-    "Alpha-2-Code": "KZ",
-    "Alpha-3-Code": "KAZ",
+    "Alpha2Code": "KZ",
+    "Alpha3Code": "KAZ",
     "Numeric": "398"
   },
   {
     "EnglishName": "Kenya",
-    "Alpha-2-Code": "KE",
-    "Alpha-3-Code": "KEN",
+    "Alpha2Code": "KE",
+    "Alpha3Code": "KEN",
     "Numeric": "404"
   },
   {
     "EnglishName": "Kiribati",
-    "Alpha-2-Code": "KI",
-    "Alpha-3-Code": "KIR",
+    "Alpha2Code": "KI",
+    "Alpha3Code": "KIR",
     "Numeric": "296"
   },
   {
     "EnglishName": "Korea (the Democratic People's Republic of)",
-    "Alpha-2-Code": "KP",
-    "Alpha-3-Code": "PRK",
+    "Alpha2Code": "KP",
+    "Alpha3Code": "PRK",
     "Numeric": "408"
   },
   {
     "EnglishName": "Korea (the Republic of)",
-    "Alpha-2-Code": "KR",
-    "Alpha-3-Code": "KOR",
+    "Alpha2Code": "KR",
+    "Alpha3Code": "KOR",
     "Numeric": "410"
   },
   {
     "EnglishName": "Kuwait",
-    "Alpha-2-Code": "KW",
-    "Alpha-3-Code": "KWT",
+    "Alpha2Code": "KW",
+    "Alpha3Code": "KWT",
     "Numeric": "414"
   },
   {
     "EnglishName": "Kyrgyzstan",
-    "Alpha-2-Code": "KG",
-    "Alpha-3-Code": "KGZ",
+    "Alpha2Code": "KG",
+    "Alpha3Code": "KGZ",
     "Numeric": "417"
   },
   {
     "EnglishName": "Lao People's Democratic Republic (the)",
-    "Alpha-2-Code": "LA",
-    "Alpha-3-Code": "LAO",
+    "Alpha2Code": "LA",
+    "Alpha3Code": "LAO",
     "Numeric": "418"
   },
   {
     "EnglishName": "Latvia",
-    "Alpha-2-Code": "LV",
-    "Alpha-3-Code": "LVA",
+    "Alpha2Code": "LV",
+    "Alpha3Code": "LVA",
     "Numeric": "428"
   },
   {
     "EnglishName": "Lebanon",
-    "Alpha-2-Code": "LB",
-    "Alpha-3-Code": "LBN",
+    "Alpha2Code": "LB",
+    "Alpha3Code": "LBN",
     "Numeric": "422"
   },
   {
     "EnglishName": "Lesotho",
-    "Alpha-2-Code": "LS",
-    "Alpha-3-Code": "LSO",
+    "Alpha2Code": "LS",
+    "Alpha3Code": "LSO",
     "Numeric": "426"
   },
   {
     "EnglishName": "Liberia",
-    "Alpha-2-Code": "LR",
-    "Alpha-3-Code": "LBR",
+    "Alpha2Code": "LR",
+    "Alpha3Code": "LBR",
     "Numeric": "430"
   },
   {
     "EnglishName": "Libya",
-    "Alpha-2-Code": "LY",
-    "Alpha-3-Code": "LBY",
+    "Alpha2Code": "LY",
+    "Alpha3Code": "LBY",
     "Numeric": "434"
   },
   {
     "EnglishName": "Liechtenstein",
-    "Alpha-2-Code": "LI",
-    "Alpha-3-Code": "LIE",
+    "Alpha2Code": "LI",
+    "Alpha3Code": "LIE",
     "Numeric": "438"
   },
   {
     "EnglishName": "Lithuania",
-    "Alpha-2-Code": "LT",
-    "Alpha-3-Code": "LTU",
+    "Alpha2Code": "LT",
+    "Alpha3Code": "LTU",
     "Numeric": "440"
   },
   {
     "EnglishName": "Luxembourg",
-    "Alpha-2-Code": "LU",
-    "Alpha-3-Code": "LUX",
+    "Alpha2Code": "LU",
+    "Alpha3Code": "LUX",
     "Numeric": "442"
   },
   {
     "EnglishName": "Macao",
-    "Alpha-2-Code": "MO",
-    "Alpha-3-Code": "MAC",
+    "Alpha2Code": "MO",
+    "Alpha3Code": "MAC",
     "Numeric": "446"
   },
   {
     "EnglishName": "Madagascar",
-    "Alpha-2-Code": "MG",
-    "Alpha-3-Code": "MDG",
+    "Alpha2Code": "MG",
+    "Alpha3Code": "MDG",
     "Numeric": "450"
   },
   {
     "EnglishName": "Malawi",
-    "Alpha-2-Code": "MW",
-    "Alpha-3-Code": "MWI",
+    "Alpha2Code": "MW",
+    "Alpha3Code": "MWI",
     "Numeric": "454"
   },
   {
     "EnglishName": "Malaysia",
-    "Alpha-2-Code": "MY",
-    "Alpha-3-Code": "MYS",
+    "Alpha2Code": "MY",
+    "Alpha3Code": "MYS",
     "Numeric": "458"
   },
   {
     "EnglishName": "Maldives",
-    "Alpha-2-Code": "MV",
-    "Alpha-3-Code": "MDV",
+    "Alpha2Code": "MV",
+    "Alpha3Code": "MDV",
     "Numeric": "462"
   },
   {
     "EnglishName": "Mali",
-    "Alpha-2-Code": "ML",
-    "Alpha-3-Code": "MLI",
+    "Alpha2Code": "ML",
+    "Alpha3Code": "MLI",
     "Numeric": "466"
   },
   {
     "EnglishName": "Malta",
-    "Alpha-2-Code": "MT",
-    "Alpha-3-Code": "MLT",
+    "Alpha2Code": "MT",
+    "Alpha3Code": "MLT",
     "Numeric": "470"
   },
   {
     "EnglishName": "Marshall Islands (the)",
-    "Alpha-2-Code": "MH",
-    "Alpha-3-Code": "MHL",
+    "Alpha2Code": "MH",
+    "Alpha3Code": "MHL",
     "Numeric": "584"
   },
   {
     "EnglishName": "Martinique",
-    "Alpha-2-Code": "MQ",
-    "Alpha-3-Code": "MTQ",
+    "Alpha2Code": "MQ",
+    "Alpha3Code": "MTQ",
     "Numeric": "474"
   },
   {
     "EnglishName": "Mauritania",
-    "Alpha-2-Code": "MR",
-    "Alpha-3-Code": "MRT",
+    "Alpha2Code": "MR",
+    "Alpha3Code": "MRT",
     "Numeric": "478"
   },
   {
     "EnglishName": "Mauritius",
-    "Alpha-2-Code": "MU",
-    "Alpha-3-Code": "MUS",
+    "Alpha2Code": "MU",
+    "Alpha3Code": "MUS",
     "Numeric": "480"
   },
   {
     "EnglishName": "Mayotte",
-    "Alpha-2-Code": "YT",
-    "Alpha-3-Code": "MYT",
+    "Alpha2Code": "YT",
+    "Alpha3Code": "MYT",
     "Numeric": "175"
   },
   {
     "EnglishName": "Mexico",
-    "Alpha-2-Code": "MX",
-    "Alpha-3-Code": "MEX",
+    "Alpha2Code": "MX",
+    "Alpha3Code": "MEX",
     "Numeric": "484"
   },
   {
     "EnglishName": "Micronesia (Federated States of)",
-    "Alpha-2-Code": "FM",
-    "Alpha-3-Code": "FSM",
+    "Alpha2Code": "FM",
+    "Alpha3Code": "FSM",
     "Numeric": "583"
   },
   {
     "EnglishName": "Moldova (the Republic of)",
-    "Alpha-2-Code": "MD",
-    "Alpha-3-Code": "MDA",
+    "Alpha2Code": "MD",
+    "Alpha3Code": "MDA",
     "Numeric": "498"
   },
   {
     "EnglishName": "Monaco",
-    "Alpha-2-Code": "MC",
-    "Alpha-3-Code": "MCO",
+    "Alpha2Code": "MC",
+    "Alpha3Code": "MCO",
     "Numeric": "492"
   },
   {
     "EnglishName": "Mongolia",
-    "Alpha-2-Code": "MN",
-    "Alpha-3-Code": "MNG",
+    "Alpha2Code": "MN",
+    "Alpha3Code": "MNG",
     "Numeric": "496"
   },
   {
     "EnglishName": "Montenegro",
-    "Alpha-2-Code": "ME",
-    "Alpha-3-Code": "MNE",
+    "Alpha2Code": "ME",
+    "Alpha3Code": "MNE",
     "Numeric": "499"
   },
   {
     "EnglishName": "Montserrat",
-    "Alpha-2-Code": "MS",
-    "Alpha-3-Code": "MSR",
+    "Alpha2Code": "MS",
+    "Alpha3Code": "MSR",
     "Numeric": "500"
   },
   {
     "EnglishName": "Morocco",
-    "Alpha-2-Code": "MA",
-    "Alpha-3-Code": "MAR",
+    "Alpha2Code": "MA",
+    "Alpha3Code": "MAR",
     "Numeric": "504"
   },
   {
     "EnglishName": "Mozambique",
-    "Alpha-2-Code": "MZ",
-    "Alpha-3-Code": "MOZ",
+    "Alpha2Code": "MZ",
+    "Alpha3Code": "MOZ",
     "Numeric": "508"
   },
   {
     "EnglishName": "Myanmar",
-    "Alpha-2-Code": "MM",
-    "Alpha-3-Code": "MMR",
+    "Alpha2Code": "MM",
+    "Alpha3Code": "MMR",
     "Numeric": "104"
   },
   {
     "EnglishName": "Namibia",
-    "Alpha-2-Code": "NA",
-    "Alpha-3-Code": "NAM",
+    "Alpha2Code": "NA",
+    "Alpha3Code": "NAM",
     "Numeric": "516"
   },
   {
     "EnglishName": "Nauru",
-    "Alpha-2-Code": "NR",
-    "Alpha-3-Code": "NRU",
+    "Alpha2Code": "NR",
+    "Alpha3Code": "NRU",
     "Numeric": "520"
   },
   {
     "EnglishName": "Nepal",
-    "Alpha-2-Code": "NP",
-    "Alpha-3-Code": "NPL",
+    "Alpha2Code": "NP",
+    "Alpha3Code": "NPL",
     "Numeric": "524"
   },
   {
     "EnglishName": "Netherlands (Kingdom of the)",
-    "Alpha-2-Code": "NL",
-    "Alpha-3-Code": "NLD",
+    "Alpha2Code": "NL",
+    "Alpha3Code": "NLD",
     "Numeric": "528"
   },
   {
     "EnglishName": "New Caledonia",
-    "Alpha-2-Code": "NC",
-    "Alpha-3-Code": "NCL",
+    "Alpha2Code": "NC",
+    "Alpha3Code": "NCL",
     "Numeric": "540"
   },
   {
     "EnglishName": "New Zealand",
-    "Alpha-2-Code": "NZ",
-    "Alpha-3-Code": "NZL",
+    "Alpha2Code": "NZ",
+    "Alpha3Code": "NZL",
     "Numeric": "554"
   },
   {
     "EnglishName": "Nicaragua",
-    "Alpha-2-Code": "NI",
-    "Alpha-3-Code": "NIC",
+    "Alpha2Code": "NI",
+    "Alpha3Code": "NIC",
     "Numeric": "558"
   },
   {
     "EnglishName": "Niger (the)",
-    "Alpha-2-Code": "NE",
-    "Alpha-3-Code": "NER",
+    "Alpha2Code": "NE",
+    "Alpha3Code": "NER",
     "Numeric": "562"
   },
   {
     "EnglishName": "Nigeria",
-    "Alpha-2-Code": "NG",
-    "Alpha-3-Code": "NGA",
+    "Alpha2Code": "NG",
+    "Alpha3Code": "NGA",
     "Numeric": "566"
   },
   {
     "EnglishName": "Niue",
-    "Alpha-2-Code": "NU",
-    "Alpha-3-Code": "NIU",
+    "Alpha2Code": "NU",
+    "Alpha3Code": "NIU",
     "Numeric": "570"
   },
   {
     "EnglishName": "Norfolk Island",
-    "Alpha-2-Code": "NF",
-    "Alpha-3-Code": "NFK",
+    "Alpha2Code": "NF",
+    "Alpha3Code": "NFK",
     "Numeric": "574"
   },
   {
     "EnglishName": "North Macedonia",
-    "Alpha-2-Code": "MK",
-    "Alpha-3-Code": "MKD",
+    "Alpha2Code": "MK",
+    "Alpha3Code": "MKD",
     "Numeric": "807"
   },
   {
     "EnglishName": "Northern Mariana Islands (the)",
-    "Alpha-2-Code": "MP",
-    "Alpha-3-Code": "MNP",
+    "Alpha2Code": "MP",
+    "Alpha3Code": "MNP",
     "Numeric": "580"
   },
   {
     "EnglishName": "Norway",
-    "Alpha-2-Code": "NO",
-    "Alpha-3-Code": "NOR",
+    "Alpha2Code": "NO",
+    "Alpha3Code": "NOR",
     "Numeric": "578"
   },
   {
     "EnglishName": "Oman",
-    "Alpha-2-Code": "OM",
-    "Alpha-3-Code": "OMN",
+    "Alpha2Code": "OM",
+    "Alpha3Code": "OMN",
     "Numeric": "512"
   },
   {
     "EnglishName": "Pakistan",
-    "Alpha-2-Code": "PK",
-    "Alpha-3-Code": "PAK",
+    "Alpha2Code": "PK",
+    "Alpha3Code": "PAK",
     "Numeric": "586"
   },
   {
     "EnglishName": "Palau",
-    "Alpha-2-Code": "PW",
-    "Alpha-3-Code": "PLW",
+    "Alpha2Code": "PW",
+    "Alpha3Code": "PLW",
     "Numeric": "585"
   },
   {
     "EnglishName": "Palestine, State of",
-    "Alpha-2-Code": "PS",
-    "Alpha-3-Code": "PSE",
+    "Alpha2Code": "PS",
+    "Alpha3Code": "PSE",
     "Numeric": "275"
   },
   {
     "EnglishName": "Panama",
-    "Alpha-2-Code": "PA",
-    "Alpha-3-Code": "PAN",
+    "Alpha2Code": "PA",
+    "Alpha3Code": "PAN",
     "Numeric": "591"
   },
   {
     "EnglishName": "Papua New Guinea",
-    "Alpha-2-Code": "PG",
-    "Alpha-3-Code": "PNG",
+    "Alpha2Code": "PG",
+    "Alpha3Code": "PNG",
     "Numeric": "598"
   },
   {
     "EnglishName": "Paraguay",
-    "Alpha-2-Code": "PY",
-    "Alpha-3-Code": "PRY",
+    "Alpha2Code": "PY",
+    "Alpha3Code": "PRY",
     "Numeric": "600"
   },
   {
     "EnglishName": "Peru",
-    "Alpha-2-Code": "PE",
-    "Alpha-3-Code": "PER",
+    "Alpha2Code": "PE",
+    "Alpha3Code": "PER",
     "Numeric": "604"
   },
   {
     "EnglishName": "Philippines (the)",
-    "Alpha-2-Code": "PH",
-    "Alpha-3-Code": "PHL",
+    "Alpha2Code": "PH",
+    "Alpha3Code": "PHL",
     "Numeric": "608"
   },
   {
     "EnglishName": "Pitcairn",
-    "Alpha-2-Code": "PN",
-    "Alpha-3-Code": "PCN",
+    "Alpha2Code": "PN",
+    "Alpha3Code": "PCN",
     "Numeric": "612"
   },
   {
     "EnglishName": "Poland",
-    "Alpha-2-Code": "PL",
-    "Alpha-3-Code": "POL",
+    "Alpha2Code": "PL",
+    "Alpha3Code": "POL",
     "Numeric": "616"
   },
   {
     "EnglishName": "Portugal",
-    "Alpha-2-Code": "PT",
-    "Alpha-3-Code": "PRT",
+    "Alpha2Code": "PT",
+    "Alpha3Code": "PRT",
     "Numeric": "620"
   },
   {
     "EnglishName": "Puerto Rico",
-    "Alpha-2-Code": "PR",
-    "Alpha-3-Code": "PRI",
+    "Alpha2Code": "PR",
+    "Alpha3Code": "PRI",
     "Numeric": "630"
   },
   {
     "EnglishName": "Qatar",
-    "Alpha-2-Code": "QA",
-    "Alpha-3-Code": "QAT",
+    "Alpha2Code": "QA",
+    "Alpha3Code": "QAT",
     "Numeric": "634"
   },
   {
     "EnglishName": "Romania",
-    "Alpha-2-Code": "RO",
-    "Alpha-3-Code": "ROU",
+    "Alpha2Code": "RO",
+    "Alpha3Code": "ROU",
     "Numeric": "642"
   },
   {
     "EnglishName": "Russian Federation (the)",
-    "Alpha-2-Code": "RU",
-    "Alpha-3-Code": "RUS",
+    "Alpha2Code": "RU",
+    "Alpha3Code": "RUS",
     "Numeric": "643"
   },
   {
     "EnglishName": "Rwanda",
-    "Alpha-2-Code": "RW",
-    "Alpha-3-Code": "RWA",
+    "Alpha2Code": "RW",
+    "Alpha3Code": "RWA",
     "Numeric": "646"
   },
   {
-    "EnglishName": "R�union",
-    "Alpha-2-Code": "RE",
-    "Alpha-3-Code": "REU",
+    "EnglishName": "R union",
+    "Alpha2Code": "RE",
+    "Alpha3Code": "REU",
     "Numeric": "638"
   },
   {
-    "EnglishName": "Saint Barth�lemy",
-    "Alpha-2-Code": "BL",
-    "Alpha-3-Code": "BLM",
+    "EnglishName": "Saint Barth lemy",
+    "Alpha2Code": "BL",
+    "Alpha3Code": "BLM",
     "Numeric": "652"
   },
   {
     "EnglishName": "Saint Helena, Ascension and Tristan da Cunha",
-    "Alpha-2-Code": "SH",
-    "Alpha-3-Code": "SHN",
+    "Alpha2Code": "SH",
+    "Alpha3Code": "SHN",
     "Numeric": "654"
   },
   {
     "EnglishName": "Saint Kitts and Nevis",
-    "Alpha-2-Code": "KN",
-    "Alpha-3-Code": "KNA",
+    "Alpha2Code": "KN",
+    "Alpha3Code": "KNA",
     "Numeric": "659"
   },
   {
     "EnglishName": "Saint Lucia",
-    "Alpha-2-Code": "LC",
-    "Alpha-3-Code": "LCA",
+    "Alpha2Code": "LC",
+    "Alpha3Code": "LCA",
     "Numeric": "662"
   },
   {
     "EnglishName": "Saint Martin (French part)",
-    "Alpha-2-Code": "MF",
-    "Alpha-3-Code": "MAF",
+    "Alpha2Code": "MF",
+    "Alpha3Code": "MAF",
     "Numeric": "663"
   },
   {
     "EnglishName": "Saint Pierre and Miquelon",
-    "Alpha-2-Code": "PM",
-    "Alpha-3-Code": "SPM",
+    "Alpha2Code": "PM",
+    "Alpha3Code": "SPM",
     "Numeric": "666"
   },
   {
     "EnglishName": "Saint Vincent and the Grenadines",
-    "Alpha-2-Code": "VC",
-    "Alpha-3-Code": "VCT",
+    "Alpha2Code": "VC",
+    "Alpha3Code": "VCT",
     "Numeric": "670"
   },
   {
     "EnglishName": "Samoa",
-    "Alpha-2-Code": "WS",
-    "Alpha-3-Code": "WSM",
+    "Alpha2Code": "WS",
+    "Alpha3Code": "WSM",
     "Numeric": "882"
   },
   {
     "EnglishName": "San Marino",
-    "Alpha-2-Code": "SM",
-    "Alpha-3-Code": "SMR",
+    "Alpha2Code": "SM",
+    "Alpha3Code": "SMR",
     "Numeric": "674"
   },
   {
     "EnglishName": "Sao Tome and Principe",
-    "Alpha-2-Code": "ST",
-    "Alpha-3-Code": "STP",
+    "Alpha2Code": "ST",
+    "Alpha3Code": "STP",
     "Numeric": "678"
   },
   {
     "EnglishName": "Saudi Arabia",
-    "Alpha-2-Code": "SA",
-    "Alpha-3-Code": "SAU",
+    "Alpha2Code": "SA",
+    "Alpha3Code": "SAU",
     "Numeric": "682"
   },
   {
     "EnglishName": "Senegal",
-    "Alpha-2-Code": "SN",
-    "Alpha-3-Code": "SEN",
+    "Alpha2Code": "SN",
+    "Alpha3Code": "SEN",
     "Numeric": "686"
   },
   {
     "EnglishName": "Serbia",
-    "Alpha-2-Code": "RS",
-    "Alpha-3-Code": "SRB",
+    "Alpha2Code": "RS",
+    "Alpha3Code": "SRB",
     "Numeric": "688"
   },
   {
     "EnglishName": "Seychelles",
-    "Alpha-2-Code": "SC",
-    "Alpha-3-Code": "SYC",
+    "Alpha2Code": "SC",
+    "Alpha3Code": "SYC",
     "Numeric": "690"
   },
   {
     "EnglishName": "Sierra Leone",
-    "Alpha-2-Code": "SL",
-    "Alpha-3-Code": "SLE",
+    "Alpha2Code": "SL",
+    "Alpha3Code": "SLE",
     "Numeric": "694"
   },
   {
     "EnglishName": "Singapore",
-    "Alpha-2-Code": "SG",
-    "Alpha-3-Code": "SGP",
+    "Alpha2Code": "SG",
+    "Alpha3Code": "SGP",
     "Numeric": "702"
   },
   {
     "EnglishName": "Sint Maarten (Dutch part)",
-    "Alpha-2-Code": "SX",
-    "Alpha-3-Code": "SXM",
+    "Alpha2Code": "SX",
+    "Alpha3Code": "SXM",
     "Numeric": "534"
   },
   {
     "EnglishName": "Slovakia",
-    "Alpha-2-Code": "SK",
-    "Alpha-3-Code": "SVK",
+    "Alpha2Code": "SK",
+    "Alpha3Code": "SVK",
     "Numeric": "703"
   },
   {
     "EnglishName": "Slovenia",
-    "Alpha-2-Code": "SI",
-    "Alpha-3-Code": "SVN",
+    "Alpha2Code": "SI",
+    "Alpha3Code": "SVN",
     "Numeric": "705"
   },
   {
     "EnglishName": "Solomon Islands",
-    "Alpha-2-Code": "SB",
-    "Alpha-3-Code": "SLB",
+    "Alpha2Code": "SB",
+    "Alpha3Code": "SLB",
     "Numeric": "90"
   },
   {
     "EnglishName": "Somalia",
-    "Alpha-2-Code": "SO",
-    "Alpha-3-Code": "SOM",
+    "Alpha2Code": "SO",
+    "Alpha3Code": "SOM",
     "Numeric": "706"
   },
   {
     "EnglishName": "South Africa",
-    "Alpha-2-Code": "ZA",
-    "Alpha-3-Code": "ZAF",
+    "Alpha2Code": "ZA",
+    "Alpha3Code": "ZAF",
     "Numeric": "710"
   },
   {
     "EnglishName": "South Georgia and the South Sandwich Islands",
-    "Alpha-2-Code": "GS",
-    "Alpha-3-Code": "SGS",
+    "Alpha2Code": "GS",
+    "Alpha3Code": "SGS",
     "Numeric": "239"
   },
   {
     "EnglishName": "South Sudan",
-    "Alpha-2-Code": "SS",
-    "Alpha-3-Code": "SSD",
+    "Alpha2Code": "SS",
+    "Alpha3Code": "SSD",
     "Numeric": "728"
   },
   {
     "EnglishName": "Spain",
-    "Alpha-2-Code": "ES",
-    "Alpha-3-Code": "ESP",
+    "Alpha2Code": "ES",
+    "Alpha3Code": "ESP",
     "Numeric": "724"
   },
   {
     "EnglishName": "Sri Lanka",
-    "Alpha-2-Code": "LK",
-    "Alpha-3-Code": "LKA",
+    "Alpha2Code": "LK",
+    "Alpha3Code": "LKA",
     "Numeric": "144"
   },
   {
     "EnglishName": "Sudan (the)",
-    "Alpha-2-Code": "SD",
-    "Alpha-3-Code": "SDN",
+    "Alpha2Code": "SD",
+    "Alpha3Code": "SDN",
     "Numeric": "729"
   },
   {
     "EnglishName": "Suriname",
-    "Alpha-2-Code": "SR",
-    "Alpha-3-Code": "SUR",
+    "Alpha2Code": "SR",
+    "Alpha3Code": "SUR",
     "Numeric": "740"
   },
   {
     "EnglishName": "Svalbard and Jan Mayen",
-    "Alpha-2-Code": "SJ",
-    "Alpha-3-Code": "SJM",
+    "Alpha2Code": "SJ",
+    "Alpha3Code": "SJM",
     "Numeric": "744"
   },
   {
     "EnglishName": "Sweden",
-    "Alpha-2-Code": "SE",
-    "Alpha-3-Code": "SWE",
+    "Alpha2Code": "SE",
+    "Alpha3Code": "SWE",
     "Numeric": "752"
   },
   {
     "EnglishName": "Switzerland",
-    "Alpha-2-Code": "CH",
-    "Alpha-3-Code": "CHE",
+    "Alpha2Code": "CH",
+    "Alpha3Code": "CHE",
     "Numeric": "756"
   },
   {
     "EnglishName": "Syrian Arab Republic (the)",
-    "Alpha-2-Code": "SY",
-    "Alpha-3-Code": "SYR",
+    "Alpha2Code": "SY",
+    "Alpha3Code": "SYR",
     "Numeric": "760"
   },
   {
     "EnglishName": "Taiwan (Province of China)",
-    "Alpha-2-Code": "TW",
-    "Alpha-3-Code": "TWN",
+    "Alpha2Code": "TW",
+    "Alpha3Code": "TWN",
     "Numeric": "158"
   },
   {
     "EnglishName": "Tajikistan",
-    "Alpha-2-Code": "TJ",
-    "Alpha-3-Code": "TJK",
+    "Alpha2Code": "TJ",
+    "Alpha3Code": "TJK",
     "Numeric": "762"
   },
   {
     "EnglishName": "Tanzania, the United Republic of",
-    "Alpha-2-Code": "TZ",
-    "Alpha-3-Code": "TZA",
+    "Alpha2Code": "TZ",
+    "Alpha3Code": "TZA",
     "Numeric": "834"
   },
   {
     "EnglishName": "Thailand",
-    "Alpha-2-Code": "TH",
-    "Alpha-3-Code": "THA",
+    "Alpha2Code": "TH",
+    "Alpha3Code": "THA",
     "Numeric": "764"
   },
   {
     "EnglishName": "Timor-Leste",
-    "Alpha-2-Code": "TL",
-    "Alpha-3-Code": "TLS",
+    "Alpha2Code": "TL",
+    "Alpha3Code": "TLS",
     "Numeric": "626"
   },
   {
     "EnglishName": "Togo",
-    "Alpha-2-Code": "TG",
-    "Alpha-3-Code": "TGO",
+    "Alpha2Code": "TG",
+    "Alpha3Code": "TGO",
     "Numeric": "768"
   },
   {
     "EnglishName": "Tokelau",
-    "Alpha-2-Code": "TK",
-    "Alpha-3-Code": "TKL",
+    "Alpha2Code": "TK",
+    "Alpha3Code": "TKL",
     "Numeric": "772"
   },
   {
     "EnglishName": "Tonga",
-    "Alpha-2-Code": "TO",
-    "Alpha-3-Code": "TON",
+    "Alpha2Code": "TO",
+    "Alpha3Code": "TON",
     "Numeric": "776"
   },
   {
     "EnglishName": "Trinidad and Tobago",
-    "Alpha-2-Code": "TT",
-    "Alpha-3-Code": "TTO",
+    "Alpha2Code": "TT",
+    "Alpha3Code": "TTO",
     "Numeric": "780"
   },
   {
     "EnglishName": "Tunisia",
-    "Alpha-2-Code": "TN",
-    "Alpha-3-Code": "TUN",
+    "Alpha2Code": "TN",
+    "Alpha3Code": "TUN",
     "Numeric": "788"
   },
   {
     "EnglishName": "Turkmenistan",
-    "Alpha-2-Code": "TM",
-    "Alpha-3-Code": "TKM",
+    "Alpha2Code": "TM",
+    "Alpha3Code": "TKM",
     "Numeric": "795"
   },
   {
     "EnglishName": "Turks and Caicos Islands (the)",
-    "Alpha-2-Code": "TC",
-    "Alpha-3-Code": "TCA",
+    "Alpha2Code": "TC",
+    "Alpha3Code": "TCA",
     "Numeric": "796"
   },
   {
     "EnglishName": "Tuvalu",
-    "Alpha-2-Code": "TV",
-    "Alpha-3-Code": "TUV",
+    "Alpha2Code": "TV",
+    "Alpha3Code": "TUV",
     "Numeric": "798"
   },
   {
-    "EnglishName": "T�rkiye",
-    "Alpha-2-Code": "TR",
-    "Alpha-3-Code": "TUR",
+    "EnglishName": "T rkiye",
+    "Alpha2Code": "TR",
+    "Alpha3Code": "TUR",
     "Numeric": "792"
   },
   {
     "EnglishName": "Uganda",
-    "Alpha-2-Code": "UG",
-    "Alpha-3-Code": "UGA",
+    "Alpha2Code": "UG",
+    "Alpha3Code": "UGA",
     "Numeric": "800"
   },
   {
     "EnglishName": "Ukraine",
-    "Alpha-2-Code": "UA",
-    "Alpha-3-Code": "UKR",
+    "Alpha2Code": "UA",
+    "Alpha3Code": "UKR",
     "Numeric": "804"
   },
   {
     "EnglishName": "United Arab Emirates (the)",
-    "Alpha-2-Code": "AE",
-    "Alpha-3-Code": "ARE",
+    "Alpha2Code": "AE",
+    "Alpha3Code": "ARE",
     "Numeric": "784"
   },
   {
     "EnglishName": "United Kingdom of Great Britain and Northern Ireland (the)",
-    "Alpha-2-Code": "GB",
-    "Alpha-3-Code": "GBR",
+    "Alpha2Code": "GB",
+    "Alpha3Code": "GBR",
     "Numeric": "826"
   },
   {
     "EnglishName": "United States Minor Outlying Islands (the)",
-    "Alpha-2-Code": "UM",
-    "Alpha-3-Code": "UMI",
+    "Alpha2Code": "UM",
+    "Alpha3Code": "UMI",
     "Numeric": "581"
   },
   {
     "EnglishName": "United States of America (the)",
-    "Alpha-2-Code": "US",
-    "Alpha-3-Code": "USA",
+    "Alpha2Code": "US",
+    "Alpha3Code": "USA",
     "Numeric": "840"
   },
   {
     "EnglishName": "Uruguay",
-    "Alpha-2-Code": "UY",
-    "Alpha-3-Code": "URY",
+    "Alpha2Code": "UY",
+    "Alpha3Code": "URY",
     "Numeric": "858"
   },
   {
     "EnglishName": "Uzbekistan",
-    "Alpha-2-Code": "UZ",
-    "Alpha-3-Code": "UZB",
+    "Alpha2Code": "UZ",
+    "Alpha3Code": "UZB",
     "Numeric": "860"
   },
   {
     "EnglishName": "Vanuatu",
-    "Alpha-2-Code": "VU",
-    "Alpha-3-Code": "VUT",
+    "Alpha2Code": "VU",
+    "Alpha3Code": "VUT",
     "Numeric": "548"
   },
   {
     "EnglishName": "Venezuela (Bolivarian Republic of)",
-    "Alpha-2-Code": "VE",
-    "Alpha-3-Code": "VEN",
+    "Alpha2Code": "VE",
+    "Alpha3Code": "VEN",
     "Numeric": "862"
   },
   {
     "EnglishName": "Viet Nam",
-    "Alpha-2-Code": "VN",
-    "Alpha-3-Code": "VNM",
+    "Alpha2Code": "VN",
+    "Alpha3Code": "VNM",
     "Numeric": "704"
   },
   {
     "EnglishName": "Virgin Islands (British)",
-    "Alpha-2-Code": "VG",
-    "Alpha-3-Code": "VGB",
+    "Alpha2Code": "VG",
+    "Alpha3Code": "VGB",
     "Numeric": "92"
   },
   {
     "EnglishName": "Virgin Islands (U.S.)",
-    "Alpha-2-Code": "VI",
-    "Alpha-3-Code": "VIR",
+    "Alpha2Code": "VI",
+    "Alpha3Code": "VIR",
     "Numeric": "850"
   },
   {
     "EnglishName": "Wallis and Futuna",
-    "Alpha-2-Code": "WF",
-    "Alpha-3-Code": "WLF",
+    "Alpha2Code": "WF",
+    "Alpha3Code": "WLF",
     "Numeric": "876"
   },
   {
     "EnglishName": "Western Sahara*",
-    "Alpha-2-Code": "EH",
-    "Alpha-3-Code": "ESH",
+    "Alpha2Code": "EH",
+    "Alpha3Code": "ESH",
     "Numeric": "732"
   },
   {
     "EnglishName": "Yemen",
-    "Alpha-2-Code": "YE",
-    "Alpha-3-Code": "YEM",
+    "Alpha2Code": "YE",
+    "Alpha3Code": "YEM",
     "Numeric": "887"
   },
   {
     "EnglishName": "Zambia",
-    "Alpha-2-Code": "ZM",
-    "Alpha-3-Code": "ZMB",
+    "Alpha2Code": "ZM",
+    "Alpha3Code": "ZMB",
     "Numeric": "894"
   },
   {
     "EnglishName": "Zimbabwe",
-    "Alpha-2-Code": "ZW",
-    "Alpha-3-Code": "ZWE",
+    "Alpha2Code": "ZW",
+    "Alpha3Code": "ZWE",
     "Numeric": "716"
   },
   {
-    "EnglishName": "�land Islands",
-    "Alpha-2-Code": "AX",
-    "Alpha-3-Code": "ALA",
+    "EnglishName": "land Islands",
+    "Alpha2Code": "AX",
+    "Alpha3Code": "ALA",
     "Numeric": "248"
   }
 ]
